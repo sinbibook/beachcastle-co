@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-11-09T09:19:12.480312879Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-11-09T09:20:38.322293290Z",
     "templateType": "trip_g",
     "propertyId": "a7f920fa-418b-45bd-bd13-6fd3af0dc711",
     "homepageId": "01a15dbf-c1ea-7727-9d9e-ff54c1db0693"
@@ -1319,32 +1319,28 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/main_about/1792574213192-fwqky04g3y.jpg",
                       "sortOrder": 0,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "0460ab12-fe12-4d04-8a14-7e62cda7f90b"
+                      "isSelected": true
                     },
                     {
                       "id": "01a15dbf-f8c3-7dcc-b541-76fb5f370c36",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/main_about/1792574213433-no6gr5w2m7.jpg",
                       "sortOrder": 1,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "0460ab12-fe12-4d04-8a14-7e62cda7f90b"
+                      "isSelected": true
                     },
                     {
                       "id": "01a15dbf-f8cc-7354-87c9-9dbc7960388e",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/main_about/1792574213607-xdqlll8e67.jpg",
                       "sortOrder": 2,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "0460ab12-fe12-4d04-8a14-7e62cda7f90b"
+                      "isSelected": true
                     },
                     {
                       "id": "01a15dbf-f8ce-7388-940a-4920f9c25def",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/main_about/1792574213576-ktkvkxv696.jpg",
                       "sortOrder": 3,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "0460ab12-fe12-4d04-8a14-7e62cda7f90b"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "0460ab12-fe12-4d04-8a14-7e62cda7f90b",
@@ -1358,40 +1354,35 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/main_about/1792574213813-6t2g1ry42p.jpg",
                       "sortOrder": 4,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "8e4b121e-3dfa-45d0-8b90-e03494241296"
+                      "isSelected": true
                     },
                     {
                       "id": "01a15dbf-f8d4-7c40-a642-cae5170a6e30",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/main_about/1792574213866-t1zps7oijb.jpg",
                       "sortOrder": 5,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "8e4b121e-3dfa-45d0-8b90-e03494241296"
+                      "isSelected": true
                     },
                     {
                       "id": "01a15dbf-f8e3-7857-8c83-5115cca1416e",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/main_about/1792574213914-5atkitcpgg.jpg",
                       "sortOrder": 6,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "8e4b121e-3dfa-45d0-8b90-e03494241296"
+                      "isSelected": true
                     },
                     {
                       "id": "01a15dbf-f8e2-7c49-9a89-0a9da68446b0",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/main_about/1792574214118-xlo7g0dzos.jpg",
                       "sortOrder": 7,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "8e4b121e-3dfa-45d0-8b90-e03494241296"
+                      "isSelected": true
                     },
                     {
                       "id": "01a15dbf-f8e8-77a5-9adf-7e3ae87aa21d",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/main_about/1792574214247-f6437zx57p.jpg",
                       "sortOrder": 8,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "8e4b121e-3dfa-45d0-8b90-e03494241296"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "8e4b121e-3dfa-45d0-8b90-e03494241296",
@@ -1523,8 +1514,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/nearby_attractions_about/1792574214578-iftazoevqj.jpg",
                       "sortOrder": 0,
                       "description": "펜션 바로 앞",
-                      "isSelected": true,
-                      "blockId": "d570e92e-caa8-470c-909b-e1548bd92077"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "d570e92e-caa8-470c-909b-e1548bd92077",
@@ -1538,8 +1528,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/nearby_attractions_about/1792574214709-nyct1xerry.jpg",
                       "sortOrder": 1,
                       "description": "펜션에서 2.7km, 차량으로 약 6분",
-                      "isSelected": true,
-                      "blockId": "8c2d759b-2d24-4bc2-a853-bd6cfb6d9647"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "8c2d759b-2d24-4bc2-a853-bd6cfb6d9647",
@@ -1553,8 +1542,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/nearby_attractions_about/1792574214796-jwvl9dxec5.jpg",
                       "sortOrder": 2,
                       "description": "펜션에서 4.4km, 차량으로 약 7분",
-                      "isSelected": true,
-                      "blockId": "d1673de4-87db-4f4d-9dda-636c4c4ec9b2"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "d1673de4-87db-4f4d-9dda-636c4c4ec9b2",
@@ -1568,8 +1556,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/nearby_attractions_about/1792574214881-a53erffqgc.jpg",
                       "sortOrder": 3,
                       "description": "펜션에서 5.6km, 차량으로 약 7분",
-                      "isSelected": true,
-                      "blockId": "1e4845d4-d503-480f-9b89-a9431879c35f"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "1e4845d4-d503-480f-9b89-a9431879c35f",
@@ -1583,8 +1570,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/nearby_attractions_about/1792574214854-hv8640s6lm.jpg",
                       "sortOrder": 4,
                       "description": "펜션에서 5.6km, 차량으로 약 7분",
-                      "isSelected": true,
-                      "blockId": "f7635daf-a84e-477d-b0d5-c2b818d07e1a"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "f7635daf-a84e-477d-b0d5-c2b818d07e1a",
@@ -1598,8 +1584,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/nearby_attractions_about/1792574214999-3s7muobetu.jpg",
                       "sortOrder": 5,
                       "description": "펜션에서 11.4km, 차량으로 약 18분",
-                      "isSelected": true,
-                      "blockId": "a21c6232-743b-423c-8aa0-575e60065139"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "a21c6232-743b-423c-8aa0-575e60065139",
@@ -1661,8 +1646,7 @@
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a15dbf-c1ea-7727-9d9e-ff54c1db0693/popup/1792574215242-11lpok2nww.jpg",
                 "sortOrder": 0,
                 "description": "",
-                "isSelected": true,
-                "blockId": "443229cc-f4ce-4a57-9bc6-e2c751121dd7"
+                "isSelected": true
               }
             ],
             "slider": false,
